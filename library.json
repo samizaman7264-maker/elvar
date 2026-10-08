@@ -1,0 +1,8 @@
+{
+  "tracks": [
+    { "id": "chirpings", "name": "Chirpings", "file": "Chirpings.mp3", "size": "8.5 MB" },
+    { "id": "alone-bit", "name": "Alone bit", "file": "alone bit.mp3", "size": "1.6 MB" },
+    { "id": "ambient", "name": "Ambient", "file": "Ambient.mp3", "size": "2.6 MB" },
+    { "id": "cricket", "name": "Cricket", "file": "Cricket.wav", "size": "4.6 MB" }
+  ]
+}
